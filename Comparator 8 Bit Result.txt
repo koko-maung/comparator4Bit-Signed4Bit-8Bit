@@ -1,0 +1,9 @@
+# a_ip:10000000,b_ip:10000000,a_op_G:1,b_op_G:0,a_op_E_b:0
+# a_ip:10000000,b_ip:00000000,a_op_G:1,b_op_G:0,a_op_E_b:0
+# a_ip:10000000,b_ip:01111111,a_op_G:0,b_op_G:0,a_op_E_b:1
+# a_ip:00000000,b_ip:10000000,a_op_G:0,b_op_G:0,a_op_E_b:1
+# a_ip:00000000,b_ip:00000000,a_op_G:1,b_op_G:0,a_op_E_b:0
+# a_ip:00000000,b_ip:01111111,a_op_G:1,b_op_G:0,a_op_E_b:0
+# a_ip:01111111,b_ip:10000000,a_op_G:0,b_op_G:0,a_op_E_b:1
+# a_ip:01111111,b_ip:00000000,a_op_G:1,b_op_G:0,a_op_E_b:0
+# a_ip:01111111,b_ip:01111111,a_op_G:1,b_op_G:0,a_op_E_b:0
